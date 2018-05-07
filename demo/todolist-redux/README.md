@@ -6,6 +6,8 @@ UI 设计效果：
 
 ![UI 设计效果](todolist.png)
 
+![UI 设计效果2](todolist2.png)
+
 数据流向：
 
 ![Redux data flow](Redux.svg)
